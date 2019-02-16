@@ -37,4 +37,4 @@ even_more_knowledge = avi.teach
 linda.learn(more_knowledge)
 linda.learn(even_more_knowledge)
 
-puts "Our students learned: '#{steve.knowledge.first}', '#{linda.knowledge.first}', '#{linda.knowledge[1]}'."
+puts "Our students learned: '#{steve.knowledge.first}', '#{linda.knowledge.first}', and '#{linda.knowledge[1]}'."
